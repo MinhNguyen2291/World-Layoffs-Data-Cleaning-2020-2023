@@ -15,6 +15,7 @@ This project focuses on cleaning and processing global layoff data from 2020 to 
 
 ## Files in Repository
 - `world_layoffs_raw_data.csv`: The original dataset before cleaning.
+- `world_layoffs_raw_data.csv`: The original dataset after cleaning.
 - `world_layoffs_cleaned.sql`: SQL script for cleaning the dataset.
 - `world_layoffs_analysis.sql`: SQL queries for basic analysis.
 
